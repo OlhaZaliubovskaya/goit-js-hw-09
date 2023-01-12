@@ -1,0 +1,2 @@
+body{letter-spacing:.08rem;height:100vh;justify-content:center;align-items:center;font-weight:500;display:flex}button,a{border-radius:10px;margin:.5rem;padding:.2em .8em;transition:all .5s}button{width:200px;height:50px;font-size:1.5rem}a{color:#ac5e99;background-color:#000;font-size:1rem;text-decoration:none;position:absolute;top:0;left:0}button:hover:not([disabled]),a:hover{color:#fff;background-color:#ac5e99}
+/*# sourceMappingURL=01-color-switcher.aaa4fbf2.css.map */

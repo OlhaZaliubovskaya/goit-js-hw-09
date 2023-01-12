@@ -1,0 +1,56 @@
+body {
+    background: url(../images/look.com.ua_315924.jpg) no-repeat center;
+        background-size: cover;
+        letter-spacing: 0.08rem;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+    
+        height: 100vh;
+}
+
+form {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 60px;
+}
+
+input,
+button,
+a {
+    border-radius: 4px;
+    padding: 0.2em 0.8em;
+    font-size: 1.2rem;
+    transition: all 0.3s;
+}
+
+input {
+    display: block;
+    height: 40px;
+    width: 180px;
+    border: none;
+    margin-right: 10px;
+}
+
+button {
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0.5rem;
+    background-color: black;
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+button:hover,
+a:hover {
+    color: white;
+    background-color: rgb(233, 168, 18);
+}
